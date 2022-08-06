@@ -1,12 +1,12 @@
 ![Full Stack Development](https://github.com/enochadane/enochadane)
 
 # Henok Adane
-I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+I'm Henok from Ethiopia, and I'm Software Engineer and a freelancer. I really enjoy learning new technologies. 
 
 ## Skills and Experience
-* ⚛ Backend developement
-* 📱 Node.js | Typescript
-* 📱 API development, Database
+*  Backend developement
+*  Node.js | Typescript
+*  API development, Database
 
 * ⚛ Frontend developement
 * 📱 Next.js | Typescript
