@@ -1,16 +1,17 @@
-### Hi there 👋
+![Full Stack Development](https://github.com/enochadane/enochadane)
 
-<!--
-**enochadane/enochadane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Henok Adane
+I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
 
-Here are some ideas to get you started:
+## Skills and Experience
+* ⚛ Backend developement
+* 📱 Node.js | Typescript
+* 📱 API development, Database
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ⚛ Frontend developement
+* 📱 Next.js | Typescript
+* 💻 HTML, CSS, JS
+
+
+## Examples of Work
+<img src="https://github.com/enochadane/enochadane" width="512" >
